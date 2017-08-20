@@ -7,6 +7,7 @@ public class A {
 		
 		b.setVal1(1);
 		b.setVal2(7);
+		
 	}
 
 }
